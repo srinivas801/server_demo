@@ -21,5 +21,5 @@ jobs:
 
     - name: Build and Push
       run: |
-        docker build -t yourusername/server_demo:latest .
-        docker push yourusername/server_demo:latest
+        docker build -t srinivast066/server_demo:latest .
+        docker push srinivast066/server_demo:latest
